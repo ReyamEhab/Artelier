@@ -1,8 +1,5 @@
 # Artelier
 
-Perfect 👌 — your concept is clear and creative! Here’s a **complete, professional README section** you can paste directly into your GitHub repository.
-It includes: project brief, personas, goals, and deadline — all formatted properly.
-
 ---
 
 ## 🎨 **Artelier – Your Interactive Studio Companion**
